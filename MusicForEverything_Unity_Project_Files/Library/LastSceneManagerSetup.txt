@@ -1,0 +1,16 @@
+sceneSetups:
+- path: Assets/Scenes/MainMenu.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scenes/Exercising.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/PlayingGames.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/StudyingMusic.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Relaxing.unity
+  isLoaded: 0
+  isActive: 0

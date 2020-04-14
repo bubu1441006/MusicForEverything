@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 403788e8783f54c8eb4d59385ab4cea4
+  - enabled: 1
+    path: Assets/Scenes/StudyingMusic.unity
+    guid: 4e701cea13e3e4dac97741239e7ab0ac
+  - enabled: 1
+    path: Assets/Scenes/PlayingGames.unity
+    guid: b924ead372d3b4b908e2f6fb742870a8
+  - enabled: 1
+    path: Assets/Scenes/Exercising.unity
+    guid: 2927d94026697494e92a715f47c62816
+  - enabled: 1
+    path: Assets/Scenes/Relaxing.unity
+    guid: 1456593df003c4d24a71979582b311fe
